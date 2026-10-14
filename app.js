@@ -225,6 +225,7 @@
     document.querySelector('.skip-link').textContent = ui('跳转到正文', 'Skip to content');
     $('sidebar').setAttribute('aria-label', ui('个人信息', 'Profile'));
     $('nav').setAttribute('aria-label', ui('页面导航', 'Main navigation'));
+    $('visitor-globe')?.setAttribute('aria-label', ui('访客地图', 'Visitor map'));
     renderProfile();
     $('content').replaceChildren(...[
       section('about', label('about', '个人简介'), el('p', { class: 'about-text' }, data.about),
