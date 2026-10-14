@@ -180,6 +180,6 @@ html[lang="en"] .interests li { font-size: 13px; }
 .about-text { white-space: pre-line; }
 
 /* Visitor globe (MapMyVisitors) */
-.visitor-globe { display: flex; justify-content: center; padding: 32px 0 0; border-top: 1px solid var(--line); }
-.visitor-globe canvas, .visitor-globe iframe, .visitor-globe img { max-width: 100%; }
+.visitor-globe { display: block; text-align: center; padding: 32px 0 0; border-top: 1px solid var(--line); }
+.visitor-globe > * { margin-left: auto; margin-right: auto; }
 @media print { .visitor-globe { display: none; } }
