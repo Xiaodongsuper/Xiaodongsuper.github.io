@@ -1,0 +1,668 @@
+{
+  "lang": "zh-CN",
+  "name": "董晓",
+  "nameZh": "Xiao Dong",
+  "highlightName": "Xiao Dong",
+  "title": "讲师",
+  "affiliation": "山东师范大学 计算机与人工智能学院",
+  "address": "山东省济南市长清区山东师范大学文淙楼信工学院",
+  "email": "dx.icandoit@gmail.com",
+  "avatar": "assets/avatar.jpg",
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:dx.icandoit@gmail.com"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=jXLkbw8AAAAJ&hl=zh-CN"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Xiaodongsuper"
+    }
+  ],
+  "labels": {
+    "about": "个人简介",
+    "interests": "研究方向",
+    "news": "最新动态",
+    "recruit": "实习与招生",
+    "publications": "学术论文",
+    "selected": "代表作",
+    "all": "全部",
+    "grants": "科研项目",
+    "honors": "荣誉奖励",
+    "service": "学术服务",
+    "education": "教育经历",
+    "projects": "开源项目"
+  },
+  "about": "董晓，山东师范大学计算机与人工智能学院讲师，张化祥教授团队成员，博士毕业于中山大学人工智能学院、广东省大数据分析与处理重点实验室。长期从事多模态人工智能研究，研究方向为多模态大模型和具身智能，聚焦多模态信息统一表征、跨模态理解与生成等关键问题，提出了五模态统一表征、视觉语言细粒度对齐等方法与技术。在 IEEE TPAMI、TMM、CVPR、ICLR 等国际期刊和会议发表论文40余篇，其中中科院一区及 CCF A 类论文20余篇，获授权发明专利7项。\n\n主持首届国家自然科学基金青年学生基础研究项目（博士研究生），作为项目骨干参与科技部重点研发计划、国家自然科学基金面上项目及青年项目、山东省重点研发项目等。多项研究成果已在华为、阿里、美图等企业应用。曾获逸仙学术之星、郭谢碧蓉特等奖学金、国家奖学金等荣誉。参与 CVPR、NeurIPS、IEEE TPAMI、TMM 等会议和期刊的学术服务，担任领域主席、程序委员会委员和审稿人，并组织 CVPR 挑战赛及 PRCV 特色论坛。",
+  "interests": [
+    "多模态大模型",
+    "具身智能"
+  ],
+  "news": [
+    {
+      "date": "2026",
+      "text": "ConsistentID 被 IEEE TPAMI 接收。"
+    },
+    {
+      "date": "2026",
+      "text": "SAKE 被 KDD 2026 接收。"
+    },
+    {
+      "date": "2025.12",
+      "text": "博士毕业于中山大学人工智能学院，加入山东师范大学任讲师。"
+    },
+    {
+      "date": "2025",
+      "text": "CatVTON 被 ICLR 2025 接收。"
+    }
+  ],
+  "recruit": {
+    "intro": "长期招收本科科研实习生和硕士研究生，欢迎对计算机视觉与多模态人工智能方向有浓厚兴趣的同学加入课题组。有意者请发送邮件至 dx.icandoit@gmail.com。",
+    "groups": [
+      {
+        "title": "本科实习 · 要求",
+        "items": [
+          "对计算机视觉 / 人工智能研究有浓厚兴趣",
+          "具备一定的编程基础",
+          "每周能投入一定时间参与科研",
+          "有机器学习 / 深度学习基础优先"
+        ]
+      },
+      {
+        "title": "本科实习 · 实习内容",
+        "items": [
+          "参与计算机视觉或多模态方向研究项目",
+          "参与论文阅读与科研讨论",
+          "参与论文撰写与发表"
+        ]
+      },
+      {
+        "title": "硕士研究生 · 培养方向",
+        "items": [
+          "多模态大模型",
+          "图像与视频生成",
+          "多模态检索与理解",
+          "AI Agent"
+        ]
+      },
+      {
+        "title": "硕士研究生 · 培养目标",
+        "items": [
+          "在顶级会议或期刊发表论文",
+          "参与国家科研项目与企业合作项目",
+          "推荐优秀学生继续攻读博士或进入知名企业"
+        ]
+      }
+    ]
+  },
+  "grants": [
+    {
+      "date": "2023.05 – 2024.12",
+      "text": "国家自然科学基金青年学生基础研究项目（博士研究生），面向开放域场景的判别生成多模态大模型研究，结题，主持"
+    },
+    {
+      "date": "2023.07 – 2026.08",
+      "text": "科技部鹏城实验室重大攻关项目，结题，参与"
+    },
+    {
+      "date": "2022.08 – 2023.06",
+      "text": "企业合作项目（美团），面向在线实时视频分析的通用视频表征学习，结题，参与"
+    },
+    {
+      "date": "2019.01 – 2021.12",
+      "text": "国家自然科学基金青年项目，面向社交图像检索的语义迁移离散哈希方法研究，结题，参与"
+    },
+    {
+      "date": "2018.01 – 2021.12",
+      "text": "国家自然科学基金面上项目，基于局部语义关联及判别分析的跨模态数据检索，结题，参与"
+    }
+  ],
+  "publications": [
+    {
+      "title": "EventLens: Event-Aware Hierarchical Evidence Construction for Long-Video Understanding",
+      "authors": "Zhengkun Zhu, Xiao Dong, Xu Yang, Yixiu Liu, Zhilou Yu, Li Liu, Huaxiang Zhang",
+      "venue": "IEEE TCSVT, 2026",
+      "image": "",
+      "links": [
+        {
+          "label": "TCSVT",
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11653436"
+        }],
+      "code": "https://github.com/zhengkun332/EventLens",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11653436"
+    },
+    {
+      "title": "SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition",
+      "authors": "Jielong Tang, Xujie Yuan, Jiayang Liu, Jianxing Yu, Xiao Dong, Lin Chen, Yunlai Teng, Shimin Di, Jian Yin",
+      "venue": "KDD, 2026",
+      "image": "",
+      "links": [
+        {
+          "label": "KDD",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3770855.3817763"
+        }],
+      "code": "https://github.com/tangjielong928/SAKE",
+      "pdf": "https://dl.acm.org/doi/epdf/10.1145/3770855.3817763"
+    },
+    {
+      "title": "ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving",
+      "authors": "Jiehui Huang, Xiao Dong, Wenhui Song, Zheng Chong, Zhenchao Tang, Jun Zhou, Yuhao Cheng, Long Chen, Hanhui Li, Yiqiang Yan, et al.",
+      "venue": "IEEE TPAMI, 2026",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "TPAMI",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11344798"
+        }],
+      "code": "https://github.com/JackAILab/ConsistentID",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11344798"
+    },
+    {
+      "title": "CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models",
+      "authors": "Zheng Chong, Xiao Dong, Haoxiang Li, Shiyue Zhang, Wenqing Zhang, Xujie Zhang, Hanqing Zhao, Xiaodan Liang",
+      "venue": "ICLR, 2025",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "ICLR",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/a6a1e4c756d700d9aedcc1896a7e6fb0-Abstract-Conference.html"
+        }],
+      "code": "https://github.com/Zheng-Chong/CatVTON",
+      "pdf": "https://proceedings.iclr.cc/paper_files/paper/2025/file/a6a1e4c756d700d9aedcc1896a7e6fb0-Paper-Conference.pdf"
+    },
+    {
+      "title": "DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance",
+      "authors": "Cong Wang, Jiaxi Gu, Panwen Hu, Yuanfan Guo, Xiao Dong, Hang Xu, Xiaodan Liang",
+      "venue": "ICASSP, 2025",
+      "image": "",
+      "links": [
+        {
+          "label": "ICASSP",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10887583"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887583"
+    },
+    {
+      "title": "EasyControl: Adding Control to Video Diffusion for Controllable Video Generation and Interpolation",
+      "authors": "Cong Wang, Jiaxi Gu, Panwen Hu, Xiao Dong, Yuanfan Guo, Hang Xu, Xiaodan Liang",
+      "venue": "ICASSP, 2025",
+      "image": "",
+      "links": [
+        {
+          "label": "",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10889997"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889997"
+    },
+    {
+      "title": "UniAdapter: All-in-One Control for Flexible Video Generation",
+      "authors": "Cong Wang, Panwen Hu, Haoyu Zhao, Yuanfan Guo, Jiaxi Gu, Xiao Dong, Jianhua Han, Hang Xu, Xiaodan Liang",
+      "venue": "IEEE TCSVT, 2024",
+      "image": "",
+      "links": [
+        {
+          "label": "",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10848181"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10848181"
+    },
+    {
+      "title": "Adaptive Collaborative Soft Label Learning for Unsupervised Multi-View Feature Selection",
+      "authors": "Dan Shi, Lei Zhu, Xiao Dong, Xuemeng Song, Jingjing Li, Zhiyong Cheng",
+      "venue": "ACM TKDD, 2023",
+      "image": "",
+      "links": [
+        {
+          "label": "ACM TKDD",
+          "url": "https://dl.acm.org/doi/full/10.1145/3591467"
+        }],
+      "code": "",
+      "pdf": "https://dl.acm.org/doi/epdf/10.1145/3591467"
+    },
+    {
+      "title": "Class-Specific and Self-Learning Local Manifold Structure for Domain Adaptation",
+      "authors": "Wei Wang, Mengzhu Wang, Xiao Dong, Long Lan, Quannan Zu, Xiang Zhang, Cong Wang",
+      "venue": "Pattern Recognition, 2023",
+      "image": "",
+      "links": [
+        {
+          "label": "PR",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0031320323003552"
+        }],
+      "code": "",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0031320323003552/pdfft?md5=978ad3fa7d7c311dd6f3cd032b207a47&pid=1-s2.0-S0031320323003552-main.pdf"
+    },
+    {
+      "title": "CSEC: A Chinese Semantic Error Correction Dataset for Written Correction",
+      "authors": "Wenxin Huang, Xiao Dong, Meng-xiang Wang, Guangya Liu, Jianxing Yu, Huaijie Zhu, Jian Yin",
+      "venue": "ICONIP, 2023",
+      "image": "",
+      "links": [
+        {
+          "label": "ICONIP",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-99-8073-4_30"
+        }],
+      "code": "",
+      "pdf": "https://link.springer.com/chapter/10.1007/978-981-99-8073-4_30"
+    },
+    {
+      "title": "Multi-Modal Multi-Emotion Emotional Support Conversation",
+      "authors": "Guangya Liu, Xiao Dong, Meng-xiang Wang, Jianxing Yu, Mengjiao Gan, Wei Liu, Jian Yin",
+      "venue": "ADMA, 2023",
+      "image": "",
+      "links": [
+        {
+          "label": "ADMA",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-46661-8_20"
+        }],
+      "code": "",
+      "pdf": "https://link.springer.com/chapter/10.1007/978-3-031-46661-8_20"
+    },
+    {
+      "title": "Generating Enlightened Suggestions Based on Mental State Evolution for Emotional Support Conversation",
+      "authors": "Mengjiao Gan, Jianxing Yu, Xiao Dong, Shuang Qiu, Wei Liu, Jian Yin",
+      "venue": "ADMA, 2023",
+      "image": "",
+      "links": [
+        {
+          "label": "ADMA",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-46661-8_22"
+        }],
+      "code": "",
+      "pdf": "https://link.springer.com/chapter/10.1007/978-3-031-46661-8_22"
+    },
+    {
+      "title": "M5Product: Self-Harmonized Contrastive Learning for E-commercial Multi-modal Pretraining",
+      "authors": "Xiao Dong, Xunlin Zhan, Yangxin Wu, Yunchao Wei, Michael C. Kampffmeyer, Xiaoyong Wei, Minlong Lu, Yaowei Wang, Xiaodan Liang",
+      "venue": "CVPR, 2022",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "CVPR",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9878412"
+        }
+      ],
+      "code": "https://github.com/Xiaodongsuper/SCALE_code",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878412"
+    },
+    {
+      "title": "Entity-Graph Enhanced Cross-Modal Pretraining for Instance-Level Product Retrieval",
+      "authors": "Xiao Dong, Xunlin Zhan, Yunchao Wei, Xiaoyong Wei, Yaowei Wang, Minlong Lu, Xiaochun Cao, Xiaodan Liang",
+      "venue": "IEEE TPAMI, 2023",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "TPAMI",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10169110"
+        }],
+      "code": "https://github.com/Xiaodongsuper/Entity-Graph-Enhanced-Cross-Modal-Pretraining-for-Instance-level-Product-Retrieval",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10169110"
+    },
+    {
+      "title": "Caption-Aided Product Detection via Collaborative Pseudo-Label Harmonization",
+      "authors": "Xiao Dong, Gengwei Zhang, Xunlin Zhan, Yi Ding, Yunchao Wei, Minlong Lu, Xiaodan Liang",
+      "venue": "IEEE TMM, 2023",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "TMM",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9953558"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953558"
+    },
+    {
+      "title": "PathReasoner: Explainable Reasoning Paths for Commonsense Question Answering",
+      "authors": "Xunlin Zhan, Yinya Huang, Xiao Dong, Qingxing Cao, Xiaodan Liang",
+      "venue": "Knowledge-Based Systems, 2022",
+      "image": "",
+      "links": [
+        {
+          "label": "KBS",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0950705121008741"
+        }],
+      "code": "",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0950705121008741/pdfft?md5=da77300b460d711d2e4a5bead4698b43&pid=1-s2.0-S0950705121008741-main.pdf"
+    },
+    {
+      "title": "elBERto: Self-Supervised Commonsense Learning for Question Answering",
+      "authors": "Xunlin Zhan, Yuan Li, Xiao Dong, Xiaodan Liang, Zhiting Hu, Lawrence Carin",
+      "venue": "Knowledge-Based Systems, 2022",
+      "image": "",
+      "links": [
+        {
+          "label": "KBS",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0950705122010577"
+        }],
+      "code": "",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0950705122010577/pdfft?md5=bc4ff7b14c4ad4896caa3a5f860bfddb&pid=1-s2.0-S0950705122010577-main.pdf"
+    },
+    {
+      "title": "Contrastive Hashing with Vision Transformer for Image Retrieval",
+      "authors": "Xiuxiu Ren, Xiangwei Zheng, Huiyu Zhou, Weilong Liu, Xiao Dong",
+      "venue": "International Journal of Intelligent Systems, 2022",
+      "image": "",
+      "links": [
+        {
+          "label": "",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23082"
+        }],
+      "code": "",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.23082"
+    },
+    {
+      "title": "Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-modal Pretraining",
+      "authors": "Xunlin Zhan, Yangxin Wu, Xiao Dong, Yunchao Wei, Minlong Lu, Yichi Zhang, Hang Xu, Xiaodan Liang",
+      "venue": "ICCV, 2021",
+      "ccf": "CCF-A",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "ICCV",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9710435"
+        }
+      ],
+      "code": "https://github.com/zhanxlin/Product1M",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710435"
+    },
+    {
+      "title": "Unsupervised Deep K-means Hashing for Efficient Image Retrieval and Clustering",
+      "authors": "Xiao Dong, Li Liu, Lei Zhu, Zhiyong Cheng, Huaxiang Zhang",
+      "venue": "IEEE TCSVT, 2021",
+      "ccf": "CCF-B",
+      "selected": true,
+      "image": "",
+      "links": [
+        {
+          "label": "TCSVT",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9248040"
+        }
+      ],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9248040"
+    },
+    {
+      "title": "CRL: Collaborative Representation Learning by Coordinating Topic Modeling and Network Embeddings",
+      "authors": "Junyang Chen, Zhiguo Gong, Wei Wang, Weiwen Liu, Xiao Dong",
+      "venue": "IEEE TNNLS, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "TNNLS",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9352557"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352557"
+    },
+    {
+      "title": "Self-Training Enhanced: Network Embedding and Overlapping Community Detection with Adversarial Learning",
+      "authors": "Junyang Chen, Zhiguo Gong, Jiqian Mo, Wei Wang, Cong Wang, Xiao Dong, Weiwen Liu, Kaishun Wu",
+      "venue": "IEEE TNNLS, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "TNNLS",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9451542"
+        }],
+      "code": "",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451542"
+    },
+    {
+      "title": "Rethinking Maximum Mean Discrepancy for Visual Domain Adaptation",
+      "authors": "Wei Wang, Haojie Li, Zhengming Ding, Feiping Nie, Junyang Chen, Xiao Dong, Zhihui Wang",
+      "venue": "IEEE TNNLS, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "TNNLS",
+          "url": "https://ieeexplore.ieee.org/abstract/document/9478936"
+        }],
+      "code": "https://github.com/WWLoveTransfer/",
+      "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9478936"
+    },
+    {
+      "title": "Iterative Graph Attention Memory Network for Cross-Modal Retrieval",
+      "authors": "Xinfeng Dong, Huaxiang Zhang, Xiao Dong, Xu Lu",
+      "venue": "Knowledge-Based Systems, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "KBS",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0950705121004019"
+        }],
+      "code": "",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0950705121004019/pdfft?md5=39b983405641c025a8c5d71c3d746680&pid=1-s2.0-S0950705121004019-main.pdf"
+    },
+    {
+      "title": "Iterative Human-in-the-Loop Discovery of Unknown Unknowns in Image Datasets",
+      "authors": "Lei Han, Xiao Dong, Gianluca Demartini",
+      "venue": "AAAI HCOMP, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "AAAI HCOMP",
+          "url": "https://ojs.aaai.org/index.php/HCOMP/article/view/18941"
+        }],
+      "code": "",
+      "pdf": "https://ojs.aaai.org/index.php/HCOMP/article/view/18941/18706"
+    },
+    {
+      "title": "Deep Feature Extraction via Adaptive Collaborative Learning for Drusen Segmentation from Fundus Images",
+      "authors": "Xiuxiu Ren, Xiangwei Zheng, Xiao Dong, Xinchun Cui",
+      "venue": "Signal, Image and Video Processing, 2021",
+      "image": "",
+      "links": [
+        {
+          "label": "Signal, Image and Video Processing",
+          "url": "https://link.springer.com/article/10.1007/s11760-020-01812-2"
+        }],
+      "code": "",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11760-020-01812-2.pdf"
+    }
+  ],
+  "projects": [],
+  "education": [
+    {
+      "date": "2025.12",
+      "text": "博士，中山大学人工智能学院（导师：印鉴教授、梁小丹教授）"
+    }
+  ],
+  "honors": [
+    {
+      "date": "2024",
+      "text": "中山大学逸仙学术之星（20人）"
+    },
+    {
+      "date": "2023",
+      "text": "中山大学博士研究生国家奖学金"
+    },
+    {
+      "date": "2023",
+      "text": "中山大学郭谢碧蓉特等奖学金（10人）"
+    },
+    {
+      "date": "2019",
+      "text": "山东省优秀硕士学位论文"
+    },
+    {
+      "date": "2018",
+      "text": "硕士研究生国家奖学金"
+    }
+  ],
+  "service": [
+    {
+      "date": "会议审稿",
+      "text": "CVPR 2021–, ICCV 2021–, ACM MM 2022–, NeurIPS 2021–, PRCV 2020, PCM 2017, ECAI 2020, ECML 2020"
+    },
+    {
+      "date": "期刊审稿",
+      "text": "TPAMI, TIP, TMM, TCSVT, NN, ESWA, KBS, IS, IPM"
+    }
+  ],
+  "footer": "最后更新：2026-10",
+  "translations": {
+    "en": {
+      "lang": "en",
+      "name": "Xiao Dong",
+      "nameZh": "董晓",
+      "title": "Lecturer",
+      "affiliation": "School of Computer Science and Artificial Intelligence, Shandong Normal University",
+      "address": "School of Information Science and Engineering, Wencong Building, Shandong Normal University, Changqing District, Jinan, Shandong, China",
+      "about": "Xiao Dong is a lecturer at the School of Computer Science and Artificial Intelligence, Shandong Normal University, and a member of Prof. Huaxiang Zhang’s research team. He received his Ph.D. from the School of Artificial Intelligence and the Guangdong Provincial Key Laboratory of Big Data Analysis and Processing at Sun Yat-sen University. His research focuses on multimodal large models and embodied intelligence, with an emphasis on unified multimodal representations, cross-modal understanding, and generation. He has developed methods for unified representations across five modalities and fine-grained vision-language alignment. He has published over 40 papers in international journals and conferences, including IEEE TPAMI, TMM, CVPR, and ICLR; over 20 of these appeared in CAS Q1 journals or CCF A venues. He holds seven granted invention patents.\n\nHe leads a project in the inaugural NSFC Basic Research Program for Young Students (Ph.D.) and has contributed as a core team member to the National Key R&D Program, NSFC General Program and Young Scientists Fund projects, and the Shandong Provincial Key R&D Program. His research has been applied at Huawei, Alibaba, and Meitu. His honors include the Yat-sen Academic Star Award, the Guo Xie Birong Special Scholarship, and National Scholarships. His academic service includes area chair, program committee, and reviewer roles for conferences and journals such as CVPR, NeurIPS, IEEE TPAMI, and TMM, as well as organizing CVPR challenges and PRCV thematic forums.",
+      "interests": [
+        "Multimodal Large Models",
+        "Embodied Intelligence"
+      ],
+      "labels": {
+        "about": "About Me",
+        "interests": "Research Interests",
+        "news": "News",
+        "recruit": "Openings",
+        "publications": "Publications",
+        "selected": "Selected",
+        "all": "All",
+        "grants": "Research Projects",
+        "honors": "Honors and Awards",
+        "service": "Service",
+        "education": "Education",
+        "projects": "Open-source Projects"
+      },
+      "footer": "Last updated: 2026-10",
+      "recruit": {
+        "intro": "We welcome undergraduate research interns and prospective master’s students interested in computer vision and multimodal AI. Please contact dx.icandoit@gmail.com if you would like to join the group.",
+        "groups": [
+          {
+            "title": "Undergraduate Interns · Requirements",
+            "items": [
+              "A strong interest in computer vision / AI research",
+              "Basic programming skills",
+              "Time to participate in research each week",
+              "Prior knowledge of machine learning / deep learning is preferred"
+            ]
+          },
+          {
+            "title": "Undergraduate Interns · Activities",
+            "items": [
+              "Participate in computer vision or multimodal research projects",
+              "Read papers and join research discussions",
+              "Contribute to paper writing and publication"
+            ]
+          },
+          {
+            "title": "Master’s Students · Research Topics",
+            "items": [
+              "Multimodal large models",
+              "Image and video generation",
+              "Multimodal retrieval and understanding",
+              "AI agents"
+            ]
+          },
+          {
+            "title": "Master’s Students · Training Goals",
+            "items": [
+              "Publish in leading conferences or journals",
+              "Participate in national research projects and industry collaborations",
+              "Recommendations for outstanding students pursuing a Ph.D. or positions at leading companies"
+            ]
+          }
+        ]
+      },
+      "news": [
+        {
+          "date": "2026",
+          "text": "ConsistentID was accepted by IEEE TPAMI."
+        },
+        {
+          "date": "2026",
+          "text": "SAKE was accepted at KDD 2026."
+        },
+        {
+          "date": "2025.12",
+          "text": "Received a Ph.D. from the School of Artificial Intelligence, Sun Yat-sen University, and joined Shandong Normal University as a lecturer."
+        },
+        {
+          "date": "2025",
+          "text": "CatVTON was accepted at ICLR 2025."
+        }
+      ],
+      "grants": [
+        {
+          "date": "2023.05 – 2024.12",
+          "text": "National Natural Science Foundation of China, Basic Research Program for Young Students (Ph.D.): Discriminative and Generative Multimodal Large Models for Open-domain Scenarios. Completed; Principal Investigator."
+        },
+        {
+          "date": "2023.07 – 2026.08",
+          "text": "Major research project at Peng Cheng Laboratory, Ministry of Science and Technology. Completed; Participant."
+        },
+        {
+          "date": "2022.08 – 2023.06",
+          "text": "Industry collaboration with Meituan: General-purpose Video Representation Learning for Online Real-time Video Analysis. Completed; Participant."
+        },
+        {
+          "date": "2019.01 – 2021.12",
+          "text": "National Natural Science Foundation of China, Young Scientists Fund: Semantic Transfer Discrete Hashing for Social Image Retrieval. Completed; Participant."
+        },
+        {
+          "date": "2018.01 – 2021.12",
+          "text": "National Natural Science Foundation of China, General Program: Cross-modal Data Retrieval Based on Local Semantic Associations and Discriminative Analysis. Completed; Participant."
+        }
+      ],
+      "honors": [
+        {
+          "date": "2024",
+          "text": "Yat-sen Academic Star, Sun Yat-sen University (20 recipients)"
+        },
+        {
+          "date": "2023",
+          "text": "National Scholarship for Doctoral Students, Sun Yat-sen University"
+        },
+        {
+          "date": "2023",
+          "text": "Guo Xie Birong Special Scholarship, Sun Yat-sen University (10 recipients)"
+        },
+        {
+          "date": "2019",
+          "text": "Outstanding Master’s Thesis Award, Shandong Province"
+        },
+        {
+          "date": "2018",
+          "text": "National Scholarship for Master’s Students"
+        }
+      ],
+      "education": [
+        {
+          "date": "2025.12",
+          "text": "Ph.D., School of Artificial Intelligence, Sun Yat-sen University (supervisors: Prof. Jian Yin and Prof. Xiaodan Liang)"
+        }
+      ],
+      "service": [
+        {
+          "date": "Conference Reviewer",
+          "text": "CVPR 2021–, ICCV 2021–, ACM MM 2022–, NeurIPS 2021–, PRCV 2020, PCM 2017, ECAI 2020, ECML 2020"
+        },
+        {
+          "date": "Journal Reviewer",
+          "text": "TPAMI, TIP, TMM, TCSVT, NN, ESWA, KBS, IS, IPM"
+        }
+      ]
+    }
+  },
+  "showRecruit": false
+}
