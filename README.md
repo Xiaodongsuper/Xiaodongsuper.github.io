@@ -84,7 +84,3 @@ python3 -m http.server 8000 --bind 127.0.0.1
 导航右上角提供“中文 / English”。默认中文，切换后 URL 记录 `?lang=zh` 或 `?lang=en`，刷新与分享保留语言选择。页面链接仍指向本人主页和个人账户。
 
 `data.json` 顶层字段为中文；`translations.en` 为对应英文内容。更新简介、动态、项目或招生内容时请同步维护两份。英文缺失字段回退到顶层内容。论文、PDF、代码链接共用顶层 `publications`，只需维护一次。
-
-## 暂时隐藏招生
-
-顶层 `showRecruit: false` 隐藏中英文招生栏目及所有入口，保留 `recruit` 和英文对应数据。改为 `true` 后恢复显示。
