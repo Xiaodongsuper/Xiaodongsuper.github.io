@@ -44,6 +44,14 @@
   "news": [
     {
       "date": "2026",
+      "text": "恭喜Zhengkun Zhu, Hao Li获得国家奖学金。"
+    },
+    {
+      "date": "2026",
+      "text": "EventLens 被 IEEE TCSVT 接收。"
+    },
+    {
+      "date": "2026",
       "text": "ConsistentID 被 IEEE TPAMI 接收。"
     },
     {
