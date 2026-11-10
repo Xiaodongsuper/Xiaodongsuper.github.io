@@ -171,6 +171,36 @@
       "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11344798"
     },
     {
+      "title": "Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization",
+      "authors": "Zhiqian Xia, Jielong Tang, Ling-An Zeng, Shixiong Kai, Rong Yao, Hao Kong, Xiao Dong, Wei Wang, Mingxuan Yuan, Siyu Xia, Haifeng Xia",
+      "venue": "arXiv preprint arXiv:2610.29671, 2026",
+      "year": 2026,
+      "selected": false,
+      "image": "",
+      "links": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.29671"
+        }
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.29671"
+    },
+    {
+      "title": "Remembering Through Change: Provenance-Preserving Hypergraph Memory for Multimodal Agents",
+      "authors": "Jielong Tang, Ling-An Zeng, Xujie Yuan, Xiao Dong, Zhiqian Xia, Qingfeng Li, Shixiong Kai, Kaichao Liang, Rong Yao, Jian Yin",
+      "venue": "arXiv preprint arXiv:2610.29995, 2026",
+      "year": 2026,
+      "selected": false,
+      "image": "",
+      "links": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.29995"
+        }
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.29995"
+    },
+    {
       "title": "CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models",
       "authors": "Zheng Chong, Xiao Dong, Haoxiang Li, Shiyue Zhang, Wenqing Zhang, Xujie Zhang, Hanqing Zhao, Xiaodan Liang",
       "venue": "ICLR, 2025",
@@ -524,7 +554,7 @@
       "text": "TPAMI, TIP, TMM, TCSVT, NN, ESWA, KBS, IS, IPM"
     }
   ],
-  "footer": "最后更新：2026-10",
+  "footer": "最后更新：2026-11",
   "translations": {
     "en": {
       "lang": "en",
@@ -552,7 +582,7 @@
         "education": "Education",
         "projects": "Open-source Projects"
       },
-      "footer": "Last updated: 2026-10",
+      "footer": "Last updated: 2026-11",
       "recruit": {
         "intro": "We welcome undergraduate research interns and prospective master’s students interested in computer vision and multimodal AI. Please contact dx.icandoit@gmail.com if you would like to join the group.",
         "groups": [
