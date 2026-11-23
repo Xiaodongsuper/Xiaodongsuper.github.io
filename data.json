@@ -130,6 +130,12 @@
   ],
   "publications": [
     {
+      "title": "DBSGNav: Dual-Branch Semantic Gaussian Navigation with Near-Goal Map Refinement for Instance ImageGoal Navigation",
+      "authors": "Xiaosa Chang, Lei Zhu, Yixiu Liu, Li Liu, Xiao Dong*, Huaxiang Zhang",
+      "venue": "Pattern Recognition, 2026",
+      "code": "https://github.com/ActivityUser/DBSGNav_code"
+    },
+    {
       "title": "EventLens: Event-Aware Hierarchical Evidence Construction for Long-Video Understanding",
       "authors": "Zhengkun Zhu, Xiao Dong, Xu Yang, Yixiu Liu, Zhilou Yu, Li Liu, Huaxiang Zhang",
       "venue": "IEEE TCSVT, 2026",
