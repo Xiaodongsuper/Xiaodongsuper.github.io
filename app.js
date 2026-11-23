@@ -105,7 +105,8 @@
       const text = key === 'news'
         ? item.text.split(/\*([^*]+)\*/g).map((part, index) => index % 2 ? el('em', {}, part) : part)
         : item.text;
-      return el('li', {}, el('span', { class: 'date' }, item.date), el('span', {}, text));
+      const rank = item.journalRank ? [' ', el('strong', {}, item.journalRank)] : null;
+      return el('li', {}, el('span', { class: 'date' }, item.date), el('span', {}, text, rank));
     }));
     return section(key, label(key, fallback), list(limit ? items.slice(0, limit) : items),
       limit && items.length > limit ? el('details', { class: 'archive' },
