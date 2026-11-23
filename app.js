@@ -101,8 +101,12 @@
   function datedList(key, fallback, { limit = 0, wide = false } = {}) {
     const items = data[key] || [];
     if (!items.length) return null;
-    const list = (rows) => el('ul', { class: `dated${wide ? ' wide' : ''}` }, rows.map((item) =>
-      el('li', {}, el('span', { class: 'date' }, item.date), el('span', {}, item.text))));
+    const list = (rows) => el('ul', { class: `dated${wide ? ' wide' : ''}` }, rows.map((item) => {
+      const text = key === 'news'
+        ? item.text.split(/\*([^*]+)\*/g).map((part, index) => index % 2 ? el('em', {}, part) : part)
+        : item.text;
+      return el('li', {}, el('span', { class: 'date' }, item.date), el('span', {}, text));
+    }));
     return section(key, label(key, fallback), list(limit ? items.slice(0, limit) : items),
       limit && items.length > limit ? el('details', { class: 'archive' },
         el('summary', {}, ui(`更早动态（${items.length - limit}）`, `Earlier news (${items.length - limit})`)), list(items.slice(limit))) : null);
