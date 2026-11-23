@@ -44,7 +44,8 @@
   "news": [
     {
       "date": "2026",
-      "text": "DBSGNav 被 *Pattern Recognition* 接收。",
+      "text": "DBSGNav 被 Pattern Recognition 接收。",
+      "journal": "Pattern Recognition",
       "journalRank": "SCI 1 区 Top（中科院 2025）"
     },
     {
@@ -53,12 +54,14 @@
     },
     {
       "date": "2026",
-      "text": "EventLens 被 *IEEE TCSVT* 接收。",
+      "text": "EventLens 被 IEEE TCSVT 接收。",
+      "journal": "IEEE TCSVT",
       "journalRank": "SCI 1 区 Top（中科院 2025）"
     },
     {
       "date": "2026",
-      "text": "ConsistentID 被 *IEEE TPAMI* 接收。",
+      "text": "ConsistentID 被 IEEE TPAMI 接收。",
+      "journal": "IEEE TPAMI",
       "journalRank": "SCI 1 区 Top（中科院 2025）"
     },
     {
@@ -638,17 +641,20 @@
       "news": [
         {
           "date": "2026",
-          "text": "DBSGNav was accepted by *Pattern Recognition*.",
+          "text": "DBSGNav was accepted by Pattern Recognition.",
+          "journal": "Pattern Recognition",
           "journalRank": "SCIE · CAS Tier 1, Top Journal (2025)"
         },
         {
           "date": "2026",
-          "text": "EventLens was accepted by *IEEE TCSVT*.",
+          "text": "EventLens was accepted by IEEE TCSVT.",
+          "journal": "IEEE TCSVT",
           "journalRank": "SCIE · CAS Tier 1, Top Journal (2025)"
         },
         {
           "date": "2026",
-          "text": "ConsistentID was accepted by *IEEE TPAMI*.",
+          "text": "ConsistentID was accepted by IEEE TPAMI.",
+          "journal": "IEEE TPAMI",
           "journalRank": "SCIE · CAS Tier 1, Top Journal (2025)"
         },
         {

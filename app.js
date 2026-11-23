@@ -102,9 +102,10 @@
     const items = data[key] || [];
     if (!items.length) return null;
     const list = (rows) => el('ul', { class: `dated${wide ? ' wide' : ''}` }, rows.map((item) => {
-      const text = key === 'news'
-        ? item.text.split(/\*([^*]+)\*/g).map((part, index) => index % 2 ? el('em', {}, part) : part)
-        : item.text;
+      const start = item.journal ? item.text.indexOf(item.journal) : -1;
+      const text = start < 0 ? item.text : [
+        item.text.slice(0, start), el('em', {}, item.journal), item.text.slice(start + item.journal.length)
+      ];
       const rank = item.journalRank ? [' ', el('strong', {}, item.journalRank)] : null;
       return el('li', {}, el('span', { class: 'date' }, item.date), el('span', {}, text, rank));
     }));
@@ -267,7 +268,7 @@
       ids.filter((id) => $(id)).forEach((id) => sectionObserver.observe($(id)));
     }
   }
-  fetch('data.json', { cache: 'no-cache' })
+  fetch('data.json?v=20261123-news', { cache: 'no-cache' })
     .then((response) => {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       return response.json();
